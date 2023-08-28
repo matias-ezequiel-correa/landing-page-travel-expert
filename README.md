@@ -9,7 +9,7 @@
 
 ## Design:
 * Desktop:
-<img height="500em" src="./src/design/desktop-desing.PNG" alt="Projeto Travel Expert - Versão Desktop">
+<img height="500em" src="./src/design/desktop-design.PNG" alt="Projeto Travel Expert - Versão Desktop"> 
 
 ## Tecnologias utilizadas:
 
